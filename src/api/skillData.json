@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "icon":"TbAutomation",
+        "skill":"PLC Programing"
+    },
+    {
+        "id":2,
+        "icon":"SiNodered",
+        "skill":"Basic Node-Red"
+    },
+    {
+        "id":3,
+        "icon":"SiSmartthings",
+        "skill":"Industrial Data Integration"
+    },
+    {
+        "id":4,
+        "icon":"SiMongodb",
+        "skill":"Basic Mangodb"
+    },
+    {
+        "id":5,
+        "icon":"SiGoogledataflow",
+        "skill":"Production Performance Monitoring"
+    },
+    {
+        "id":6,
+        "icon":"SiPm2",
+        "skill":"Maintenance Digitization"
+    },
+    {
+        "id":7,
+        "icon":"FaWarehouse",
+        "skill":"Auto WMS"
+    },
+    {
+        "id":8,
+        "icon":"MdEnergySavingsLeaf",
+        "skill":"Energy Managment System"
+    },
+    {
+        "id":9,
+        "icon":"GiRelationshipBounds",
+        "skill":"Customer Relation"
+    },
+    {
+        "id":10,
+        "icon":"FaNetworkWired",
+        "skill":"Industrial Data Connectivity"
+    },
+    {
+        "id":11,
+        "icon":"SiSitepoint",
+        "skill":"Site servey"
+    },
+    {
+        "id":12,
+        "icon":"LiaIndustrySolid",
+        "skill":"Industry 4.0 Enablement"
+    },
+    {
+        "id":12,
+        "icon":"MdHighQuality",
+        "skill":"Quality & Traceability Systems"
+    }
+]
