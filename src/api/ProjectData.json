@@ -1,46 +1,91 @@
 [
     {
         "id": 1,
-        "title": "EverWood",
-        "desc": "Furniture-Ecommerce Website",
-        "tags": ["HTML","CSS","React"] ,
+        "title": "Line Monitoring System",
+        "company": "SLMG Bareilly",
+        "desc": "OEE / ME / SLE",
+        "tags": ["PLC Programming","Data Integration","Node-Red","MQTT","Kepware"] ,
         "live": "https://graceful-queijadas-6e9a46.netlify.app/",
         "code": "https://github.com/Ananya9794/EverWood_Furniture"
     },
     { 
         "id": 2, 
-        "title":" Disease Predictor", 
-        "desc": "Multi-disease prediction app", 
-        "tags": ["Python","ML","Streamlit"] ,
+        "title":"Line Monitoring System", 
+        "company": "SLMG Chhata",
+        "desc": "OEE / ME / SLE",
+        "tags": ["PLC Programming","Data Integration","Node-Red","MQTT","Kepware"] ,
         "live": "https://multiple-disease-prediction-system-lelxagpnxamfxahkpy9s8q.streamlit.app/",
         "code": "https://github.com/Ananya9794/Multiple-Disease-Prediction-System"
         
     },
     { 
         "id": 3, 
-        "title":" CryptoFlow", 
-        "desc": "React Website", 
-        "tags": ["html","Css","React"] ,
+        "title":" Line Monitoring System", 
+        "company": "Reckitt Uttarakhand",
+        "desc": " OEE = Availability*Performance*Quality ", 
+        "tags": ["PLC Programming","Data Integration","Node-Red","MQTT","Kepware"] ,
         "live": "https://cryptoflow-project.netlify.app/",
         "code": "https://github.com/Ananya9794/CryptoFlow"
     },
     { 
         "id": 4, 
-        "title":" iStudio webpage", 
-        "desc": "istudio webpage", 
-        "tags": ["HtMl","CSS","javascript","Bootstrap"] ,
-        
+        "title":" Line Monitoring System", 
+        "company": "Ajjinomoto Phillipines",
+        "desc": " OEE = Availability*Performance*Quality ",  
+        "tags": ["Data Integration","Node-Red","MQTT","Kepware"] ,
+
         "live": "https://istudio-page.netlify.app/",
         "code": "https://github.com/Ananya9794/istudio_webpage"
+          
     },
     { 
         "id": 5, 
-        "title":" Real Estate", 
-        "desc": "Real Estate project ", 
-        "tags": ["HtMl","CSS","javascript"],
+        "title":" Line Monitoring System", 
+        "company": "GOV. IRCTC Delhi",
+        "desc": "OEE / ME / SLE",
+        "tags": ["PLC Programming","Data Integration","Node-Red","MQTT","Kepware"] ,
+        "live": "https://realestateindia-project.netlify.app/",
+        "code": "https://github.com/Ananya9794/Real-Estate" 
+    },
+    {
+
+        "id": 6, 
+        "title":" Line Monitoring System", 
+        "company": "SLMG Lucknow",
+        "desc": "OEE / ME / SLE",
+        "tags": ["PLC Programming","Data Integration","Node-Red","MQTT","Kepware"] ,
+        "live": "https://realestateindia-project.netlify.app/",
+        "code": "https://github.com/Ananya9794/Real-Estate" 
+    },
+    {
+
+        "id": 7, 
+        "title":" Preventive Maintanance", 
+        "company": "SLMG Amrit Bottler Faizabad",
+        "desc": "Sphare Life Cycle / Alerts / CLTI Day-wise Weekly ETC.",
+        "tags": ["PLC Programming","Understand Customer","Implemented","Sphare parts"] ,
+        "live": "https://realestateindia-project.netlify.app/",
+        "code": "https://github.com/Ananya9794/Real-Estate" 
+    },
+    {
+
+        "id": 8, 
+        "title":" Energy Mangments System", 
+        "company": "Clearpack Automations",
+        "desc": "EM of Simense / EM of Synder / Modbus / Profinet.",
+        "tags": ["PLC Programming","Understand Customer","Implemented","Node-Red","Kepware"] ,
+        "live": "https://realestateindia-project.netlify.app/",
+        "code": "https://github.com/Ananya9794/Real-Estate" 
+    },
+       {
+
+        "id": 9, 
+        "title":" Quality Tracibility MES", 
+        "company": "SLMG Unnao",
+        "desc": "Techanical Lead.",
+        "tags": ["Understand Scope","Implemented From Team","Technical","IPC Setup"] ,
         "live": "https://realestateindia-project.netlify.app/",
         "code": "https://github.com/Ananya9794/Real-Estate" 
     }
 
-    
 ]

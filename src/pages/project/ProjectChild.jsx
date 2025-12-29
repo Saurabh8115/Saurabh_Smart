@@ -10,6 +10,7 @@ const ProjectChild = ({ data }) => {
           <div className="text-sm text-slate-400">#{data.id}</div>
         </div>
 
+        <p className="text-slate-300 mt-3 text-sm">{data.company}</p>
         <p className="text-slate-300 mt-3 text-sm">{data.desc}</p>
 
         <div className="mt-4 flex flex-wrap gap-2">
