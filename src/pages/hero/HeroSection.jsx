@@ -49,7 +49,7 @@ useEffect(() => {
         <div className="relative flex items-center md:justify-end " >
           <div className=" group w-full sm:w-75 h-75 md:w-90 md:h-90 rounded-2xl bg-linear-to-br from-[#071a3a]/60 to-[#0b3d91]/40 backdrop-blur-sm border border-slate-700/40 flex items-center justify-center shadow-2xl ">
           <div className="w-56 h-56 rounded-full overflow-hidden">
-            <img src="/public/Saurabh_Portfolio.jpeg" alt="profile" className="w-56 h-56 rounded-full object-cover ring-4 ring-transparent/10 transition-transform duration-700 ease-in-out group-hover:scale-110"  data-aos="zoom-in" data-aos-delay="200"/>
+            <img src="public/Saurabh_Smart.jpeg" alt="profile" className="w-56 h-56 rounded-full object-cover ring-4 ring-transparent/10 transition-transform duration-700 ease-in-out group-hover:scale-110"  data-aos="zoom-in" data-aos-delay="200"/>
           </div>
             
           </div>
