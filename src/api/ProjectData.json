@@ -5,8 +5,8 @@
         "company": "SLMG Bareilly",
         "desc": "OEE / ME / SLE",
         "tags": ["PLC Programming","Data Integration","Node-Red","MQTT","Kepware"] ,
-        "live": "public/Smartfactory_Brochure.pdf",
-        "code": "public/Smartfactory_Brochure.pdf"
+        "live": "/Smartfactory_Brochure.pdf",
+        "code": "/Smartfactory_Brochure.pdf"
     },
     { 
         "id": 2, 
@@ -14,8 +14,8 @@
         "company": "SLMG Chhata",
         "desc": "OEE / ME / SLE",
         "tags": ["PLC Programming","Data Integration","Node-Red","MQTT","Kepware"] ,
-        "live": "public/Smartfactory_Brochure.pdf",
-        "code": "public/Smartfactory_Brochure.pdf"
+        "live": "/Smartfactory_Brochure.pdf",
+        "code": "/Smartfactory_Brochure.pdf"
         
     },
     { 
@@ -24,8 +24,8 @@
         "company": "Reckitt Uttarakhand",
         "desc": " OEE = Availability*Performance*Quality ", 
         "tags": ["PLC Programming","Data Integration","Node-Red","MQTT","Kepware"] ,
-        "live": "public/Smartfactory_Brochure.pdf",
-        "code": "public/Smartfactory_Brochure.pdf"
+        "live": "/Smartfactory_Brochure.pdf",
+        "code": "/Smartfactory_Brochure.pdf"
     },
     { 
         "id": 4, 
@@ -34,8 +34,8 @@
         "desc": " OEE = Availability*Performance*Quality ",  
         "tags": ["Data Integration","Node-Red","MQTT","Kepware"] ,
 
-        "live": "public/Smartfactory_Brochure.pdf",
-        "code": "public/Smartfactory_Brochure.pdf"
+        "live": "/Smartfactory_Brochure.pdf",
+        "code": "/Smartfactory_Brochure.pdf"
           
     },
     { 
@@ -44,8 +44,8 @@
         "company": "GOV. IRCTC Delhi",
         "desc": "OEE / ME / SLE",
         "tags": ["PLC Programming","Data Integration","Node-Red","MQTT","Kepware"] ,
-        "live": "public/Smartfactory_Brochure.pdf",
-        "code": "public/Smartfactory_Brochure.pdf"
+        "live": "/Smartfactory_Brochure.pdf",
+        "code": "/Smartfactory_Brochure.pdf"
     },
     {
 
@@ -54,8 +54,8 @@
         "company": "SLMG Lucknow",
         "desc": "OEE / ME / SLE",
         "tags": ["PLC Programming","Data Integration","Node-Red","MQTT","Kepware"] ,
-        "live": "public/Smartfactory_Brochure.pdf",
-        "code": "public/Smartfactory_Brochure.pdf"
+        "live": "/Smartfactory_Brochure.pdf",
+        "code": "/Smartfactory_Brochure.pdf"
     },
     {
 
@@ -64,8 +64,8 @@
         "company": "SLMG Amrit Bottler Faizabad",
         "desc": "Sphare Life Cycle / Alerts / CLTI Day-wise Weekly ETC.",
         "tags": ["PLC Programming","Understand Customer","Implemented","Sphare parts"] ,
-        "live": "public/Smart Maintenanace Module Demo.mp4",
-        "code": "public/Smart Maintenanace Module Demo.mp4"
+        "live": "/Smart Maintenanace Module Demo.mp4",
+        "code": "/Smart Maintenanace Module Demo.mp4"
     },
     {
 
@@ -74,8 +74,8 @@
         "company": "Clearpack Automations",
         "desc": "EM of Simense / EM of Synder / Modbus / Profinet.",
         "tags": ["PLC Programming","Understand Customer","Implemented","Node-Red","Kepware"] ,
-        "live": "public/Smartfactory_Brochure.pdf",
-        "code": "public/Smartfactory_Brochure.pdf"
+        "live": "/Smartfactory_Brochure.pdf",
+        "code": "/Smartfactory_Brochure.pdf"
     },
        {
 
@@ -84,8 +84,8 @@
         "company": "SLMG Unnao",
         "desc": "Techanical Lead.",
         "tags": ["Understand Scope","Implemented From Team","Technical","IPC Setup"] ,
-        "live": "public/Quality project videos.mp4",
-        "code": "public/Quality_Smartfactory.pdf"
+        "live": "/Quality project videos.mp4",
+        "code": "/Quality_Smartfactory.pdf"
     }
 
 ]
