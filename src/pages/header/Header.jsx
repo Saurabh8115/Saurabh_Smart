@@ -6,8 +6,8 @@ const Header = () => {
   //  download-resume-----
    function downloadResume(){
       const link =document.createElement('a');
-      link.href="/ANANYA _SETHI_resume.pdf";
-      link.download="Ananya+Sethi_Resume.pdf";
+      link.href="/Saurabh_Maurya";
+      link.download="Saurabh-Maurya";
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link)

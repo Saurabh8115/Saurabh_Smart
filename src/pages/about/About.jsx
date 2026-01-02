@@ -57,72 +57,97 @@ With hands-on experience across various manufacturing environments, I am passion
         
 
 
-{/* ----------------------- */}
-<h4 className="font-semibold mb-10  pt-20 text-3xl  bg-linear-to-r from-[#163e9a] via-[#3a6fe0] to-[#5fa3ff] 
-bg-clip-text text-transparent inline-block">Education</h4>
+{/* ================= LEFT : EDUCATION ================= */}
+   <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+<div>
+  <h4 className="font-semibold mb-10 text-3xl bg-linear-to-r from-[#163e9a] via-[#3a6fe0] to-[#5fa3ff] 
+  bg-clip-text text-transparent inline-block">
+    Education
+  </h4>
 
+  <div className="relative">
+    {/* LINE */}
+    <div className="absolute left-4 top-0 h-full w-px bg-slate-600"></div>
 
-<div className="relative w-full">
-  {/* CENTER LINE */}
-  <div className="absolute left-1/2 top-0 h-full w-px bg-slate-600"></div>
-
-  {/* BTECH – RIGHT */}
-  <div className="relative mb-12 flex items-start justify-end" data-aos="fade-down" data-aos-delay="200">
-    {/* CARD – full width after line */}
-    <div className="w-[48%] pl-8" data-aos="fade-down" >
-      <div className="bg-slate-900/40 border   border-gray-300 hover:border-amber-600 rounded-xl p-4">
-        <p className="text-xs text-slate-400">2019 - 2023</p>
-        <p className="text-sm sm:text-xl font-semibold text-slate-200">B.Tech - Electrical Engineering </p>
-        <p className="text-xs sm:text-lg text-slate-400">Uma Nath Singh Engineering College VBSPU Jaunpur</p>
-      </div>
-    </div>
-
-    {/* DOT */}
-    <span className="absolute left-1/2 -translate-x-1/2 top-4 w-8 h-8 bg-blue-600 rounded-full border-4 border-slate-900"></span>
-  </div>
-
-  {/* DIPLOMA – LEFT */}
-  {/* <div className="relative mb-12 flex items-start justify-start" data-aos="fade-down" data-aos-delay="200">
-    <div className="w-[48%] pr-8 text-right">
-      <div className="bg-slate-900/40 border  border-gray-300 hover:border-amber-600 rounded-xl p-4">
-        <p className="text-xs text-slate-400">2019 - 2021</p>
-        <p className="text-sm sm:text-xl font-semibold text-slate-200">Diploma - Information Technology</p>
-        <p className="text-xs sm:text-lg text-slate-400">Chhatrapati Shahuji Maharaj Government Polytechnic College Ambedkar Nagar</p>
-      </div>
-    </div> */}
-
-    {/* DOT */}
-    {/* <span className="absolute left-1/2 -translate-x-1/2 top-4 w-8 h-8 bg-blue-600 rounded-full border-4 border-slate-900"></span>
-  </div> */}
-
-  {/* 12th – RIGHT */}
-  <div className="relative mb-12 flex items-start justify-end" data-aos="fade-down" data-aos-delay="200">
-    <div className="w-[48%] pl-8">
+    {/* B.TECH */}
+    <div className="relative pl-16 mb-10" data-aos="fade-up">
+      <span className="absolute left-0 top-4 w-8 h-8 bg-blue-600 rounded-full border-4 border-slate-900"></span>
       <div className="bg-slate-900/40 border border-gray-300 hover:border-amber-600 rounded-xl p-4">
-        <p className="text-xs text-slate-400">2017 - 2019</p>
-        <p className="text-sm sm:text-xl font-semibold text-slate-200">Senior Secondary (12th)</p>
-        <p className="text-xs sm:text-lg text-slate-400">Central Board of Secondary Education</p>
+        <p className="text-xs text-slate-400">2019 – 2023</p>
+        <p className="text-sm sm:text-xl font-semibold text-slate-200">
+          B.Tech – Electrical Engineering 
+        </p>
+        <p className="text-xs sm:text-lg text-slate-400">
+          UNSIET,VBSPU, Jaunpur Uttar pradesh
+        </p>
       </div>
     </div>
 
-    <span className="absolute left-1/2 -translate-x-1/2 top-4 w-8 h-8 bg-blue-600 rounded-full border-4 border-slate-900"></span>
-  </div>
+    {/* INTERMEDIATE */}
+    <div className="relative pl-16 mb-10" data-aos="fade-up">
+      <span className="absolute left-0 top-4 w-8 h-8 bg-blue-600 rounded-full border-4 border-slate-900"></span>
+      <div className="bg-slate-900/40 border border-gray-300 hover:border-amber-600 rounded-xl p-4">
+        <p className="text-xs text-slate-400">2017 – 2019</p>
+        <p className="text-sm sm:text-xl font-semibold text-slate-200">
+          Intermediate (12th)
+        </p>
+        <p className="text-xs sm:text-lg text-slate-400">
+          Intermediate School Mirzapur, UP.
+        </p>
+      </div>
+    </div>
 
-  {/* 10th – LEFT */}
-  <div className="relative flex items-start justify-start" data-aos="fade-down" data-aos-delay="200">
-    <div className="w-[48%] pr-8 text-right">
-      <div className="bg-slate-900/40 border  border-gray-300 hover:border-amber-600 rounded-xl p-4">
+    {/* HIGH SCHOOL */}
+    <div className="relative pl-16" data-aos="fade-up">
+      <span className="absolute left-0 top-4 w-8 h-8 bg-blue-600 rounded-full border-4 border-slate-900"></span>
+      <div className="bg-slate-900/40 border border-gray-300 hover:border-amber-600 rounded-xl p-4">
         <p className="text-xs text-slate-400">2015 – 2017</p>
-        <p className="text-sm sm:text-xl font-semibold text-slate-200">Secondary (10th)</p>
-        <p className="text-xs sm:text-lg text-slate-400">Central Board of Secondary Education</p>
+        <p className="text-sm sm:text-xl font-semibold text-slate-200">
+          High School (10th)
+        </p>
+        <p className="text-xs sm:text-lg text-slate-400">
+          High School Mirzapur, UP.
+        </p>
       </div>
     </div>
-
-    <span className="absolute left-1/2 -translate-x-1/2 top-4 w-8 h-8 bg-blue-600 rounded-full border-4 border-slate-900"></span>
   </div>
 </div>
 
 
+{/* ------------experience----------- */}
+ <div>
+      <h4 className="font-semibold mb-10 text-3xl bg-linear-to-r from-[#163e9a] via-[#3a6fe0] to-[#5fa3ff]  
+      bg-clip-text text-transparent inline-block">
+        Experience
+      </h4>
+
+      <div className="relative">
+        {/* LINE */}
+        <div className="absolute left-4 top-0 h-full w-px bg-slate-600"></div>
+
+        {/* ITEM */}
+        <div className="relative pl-16">
+          <span className="absolute left-0 top-4 w-8 h-8 bg-emerald-600 rounded-full border-4 border-slate-900"></span>
+          <div className="bg-slate-900/40 border border-gray-300 hover:border-amber-600 rounded-xl p-4">
+            <p className="text-xs text-slate-400">2024 – Present</p>
+            <p className="text-lg font-semibold text-slate-200">
+              Industrial Automation & IIoT Engineer
+            </p>
+            <p className="text-sm text-slate-400 mb-2">
+              Smart Fcatory Worx Pvt. Ltd. (Clearpack Group)
+            </p>
+            <ul className="list-disc list-inside text-sm text-slate-300 space-y-1">
+              <li>PLC Programming (Siemens & Delta)</li>
+              <li>Kepware & SQL integration</li>
+              <li>OEE production monitoring systems</li>
+              <li>Preventive & Predictive Maintenance</li>
+              <li>Energy meter integration</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
 
 
       </section>
