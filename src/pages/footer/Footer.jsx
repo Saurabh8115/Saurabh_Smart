@@ -7,8 +7,8 @@ const Footer = () => {
         <div className="max-w-6xl mx-auto px-6 text-sm text-slate-400 flex items-center justify-between">
           <div>© {new Date().getFullYear()} Saurabh Maurya . All rights reserved . </div>
           <div className="flex gap-4">
-            <a href='https://github.com/Ananya9794' target="_blank" className="hover:text-white">GitHub</a>
-            <a href='https://www.linkedin.com/in/ananya-sethi-616868295/' target='_blank' className="hover:text-white">LinkedIn</a>
+            {/* <a href='https://github.com/Ananya9794' target="_blank" className="hover:text-white">GitHub</a> */}
+            <a href='https://www.linkedin.com/in/saurabh-maurya-517a98251/' target='_blank' className="hover:text-white">LinkedIn</a>
           </div>
         </div>
       </footer>
