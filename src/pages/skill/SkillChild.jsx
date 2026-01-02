@@ -34,7 +34,7 @@ const SkillChild = (props) => {
   return (
     <>
     <div className="py-4 px-6 sm:py-8 sm:px-10 bg-slate-900/40 border border-gray-600 hover:border-amber-600 rounded-xl" data-aos="fade-in" data-aos-delay="200">
-        <div className="text-6xl">{IconComponent && <IconComponent />}</div>
+        <div className="text-6xl flex items-center justify-center">{IconComponent && <IconComponent />}</div>
         <div className="text-center pt-1.5">{props.data.skill}</div>
     </div>
     </>

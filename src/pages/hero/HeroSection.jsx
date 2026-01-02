@@ -26,7 +26,7 @@ useEffect(() => {
           <h2 className="text-4xl md:text-4xl font-extrabold leading-tight">
            <span className="bg-linear-to-r from-[#5fa3ff] to-[#163e9a] bg-clip-text text-transparent transition-all duration-500">
     {roles[currentRole]}</span>
-            <span className="block text-slate-300 text-xl mt-2 font-medium">I build responsive, animated and elegant user interfaces with React and Tailwind CSS.</span>
+            <span className="block text-slate-300 text-xl mt-2 font-medium">Industrial Automation & IIOT Engineer ||Siemens & Delta Programming || Kepware || SQL || Industries 4.0 || OEE Production Monitoring system || Preventive Maintenance || Predictive Maintenance || Energy Meter.</span>
           </h2>
 
           <div className="flex gap-4 items-center">
