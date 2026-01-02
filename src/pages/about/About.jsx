@@ -4,7 +4,7 @@ const About = () => {
   return (
     <>
     <section id="about" className="w-[90%] mx-auto px-6 py-12">
-        <div  className="grid md:grid-cols-3 gap-8 items-start">
+        <div  className="grid gap-8 items-start">
           <div className="md:col-span-1">
             <h3 className="text-4xl font-bold mb-3  bg-linear-to-r from-[#163e9a] via-[#3a6fe0] to-[#5fa3ff] 
                 bg-clip-text text-transparent inline-block">About Me</h3>
@@ -25,40 +25,14 @@ With hands-on experience across various manufacturing environments, I am passion
             </div>
           </div>
 
-          <div className="md:col-span-2">
-            <div className="space-y-4">
-              <div className="bg-slate-900/30 border border-gray-600 rounded-xl p-4">
-                <div className="flex items-center justify-between">
-                  <h4 className="font-semibold">Timeline</h4>
-                  <div className="text-xs text-slate-400">2019 - 2025</div>
-                </div>
-                <ul className="mt-4 space-y-3 text-sm text-slate-300">
-                  <li>2021 - Internship: Python + ML (Softpro India)</li>
-                  <li>2023 - Built Consensus Mechanism Selector (College Project)</li>
-                  <li>2024 - Internship: Frontend & React (Edureka)</li>
-                  <li>2025 - Actively seeking Full-Stack Developer opportunities</li>
-                </ul>
-              </div>
 
-              <div className="grid sm:grid-cols-2 gap-4">
-                <div className="p-4 rounded-xl ring-1 ring-gray-600">
-                  <h5 className="font-semibold mb-2">Certificates</h5>
-                  <ul className="text-sm text-slate-300 space-y-1">
-                    <li>Python with Machine Learning – Softpro (A+)</li>
-                    <li>Web Development Certification</li>
-                  </ul>
-                </div>
-                {/* <div className="p-4 rounded-xl ring-1 ring-slate-700/30">Open-source contributions</div> */}
-              </div>
-            </div>
-          </div>
         </div>
 
         
 
 
 {/* ================= LEFT : EDUCATION ================= */}
-   <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+   <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mt-12">
 <div>
   <h4 className="font-semibold mb-10 text-3xl bg-linear-to-r from-[#163e9a] via-[#3a6fe0] to-[#5fa3ff] 
   bg-clip-text text-transparent inline-block">
@@ -127,7 +101,7 @@ With hands-on experience across various manufacturing environments, I am passion
 
         {/* ITEM */}
         <div className="relative pl-16">
-          <span className="absolute left-0 top-4 w-8 h-8 bg-emerald-600 rounded-full border-4 border-slate-900"></span>
+          <span className="absolute left-0 top-4 w-8 h-8 bg-blue-600 rounded-full border-4 border-slate-900"></span>
           <div className="bg-slate-900/40 border border-gray-300 hover:border-amber-600 rounded-xl p-4">
             <p className="text-xs text-slate-400">2024 – Present</p>
             <p className="text-lg font-semibold text-slate-200">
